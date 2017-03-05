@@ -1,0 +1,6 @@
+c:\users\amin hudda\documents\visual studio 2015\Projects\BetterAddTwoNumbersConsoleApp\BetterAddTwoNumbersConsoleApp\bin\Debug\BetterAddTwoNumbersConsoleApp.exe.config
+c:\users\amin hudda\documents\visual studio 2015\Projects\BetterAddTwoNumbersConsoleApp\BetterAddTwoNumbersConsoleApp\bin\Debug\BetterAddTwoNumbersConsoleApp.exe
+c:\users\amin hudda\documents\visual studio 2015\Projects\BetterAddTwoNumbersConsoleApp\BetterAddTwoNumbersConsoleApp\bin\Debug\BetterAddTwoNumbersConsoleApp.pdb
+c:\users\amin hudda\documents\visual studio 2015\Projects\BetterAddTwoNumbersConsoleApp\BetterAddTwoNumbersConsoleApp\obj\Debug\BetterAddTwoNumbersConsoleApp.csprojResolveAssemblyReference.cache
+c:\users\amin hudda\documents\visual studio 2015\Projects\BetterAddTwoNumbersConsoleApp\BetterAddTwoNumbersConsoleApp\obj\Debug\BetterAddTwoNumbersConsoleApp.exe
+c:\users\amin hudda\documents\visual studio 2015\Projects\BetterAddTwoNumbersConsoleApp\BetterAddTwoNumbersConsoleApp\obj\Debug\BetterAddTwoNumbersConsoleApp.pdb

@@ -1,0 +1,9 @@
+c:\users\amin hudda\documents\visual studio 2015\Projects\if statement\if statement\bin\Debug\if statement.exe.config
+c:\users\amin hudda\documents\visual studio 2015\Projects\if statement\if statement\obj\Debug\if statement.csprojResolveAssemblyReference.cache
+c:\users\amin hudda\documents\visual studio 2015\Projects\if statement\if statement\obj\Debug\if_statement.Form1.resources
+c:\users\amin hudda\documents\visual studio 2015\Projects\if statement\if statement\obj\Debug\if_statement.Properties.Resources.resources
+c:\users\amin hudda\documents\visual studio 2015\Projects\if statement\if statement\obj\Debug\if statement.csproj.GenerateResource.Cache
+c:\users\amin hudda\documents\visual studio 2015\Projects\if statement\if statement\bin\Debug\if statement.exe
+c:\users\amin hudda\documents\visual studio 2015\Projects\if statement\if statement\bin\Debug\if statement.pdb
+c:\users\amin hudda\documents\visual studio 2015\Projects\if statement\if statement\obj\Debug\if statement.exe
+c:\users\amin hudda\documents\visual studio 2015\Projects\if statement\if statement\obj\Debug\if statement.pdb

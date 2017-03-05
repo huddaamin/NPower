@@ -1,0 +1,9 @@
+c:\users\amin hudda\documents\visual studio 2015\Projects\String Variables\String Variables\bin\Debug\String Variables.exe.config
+c:\users\amin hudda\documents\visual studio 2015\Projects\String Variables\String Variables\bin\Debug\String Variables.exe
+c:\users\amin hudda\documents\visual studio 2015\Projects\String Variables\String Variables\bin\Debug\String Variables.pdb
+c:\users\amin hudda\documents\visual studio 2015\Projects\String Variables\String Variables\obj\Debug\String Variables.csprojResolveAssemblyReference.cache
+c:\users\amin hudda\documents\visual studio 2015\Projects\String Variables\String Variables\obj\Debug\String_Variables.Form1.resources
+c:\users\amin hudda\documents\visual studio 2015\Projects\String Variables\String Variables\obj\Debug\String_Variables.Properties.Resources.resources
+c:\users\amin hudda\documents\visual studio 2015\Projects\String Variables\String Variables\obj\Debug\String Variables.csproj.GenerateResource.Cache
+c:\users\amin hudda\documents\visual studio 2015\Projects\String Variables\String Variables\obj\Debug\String Variables.exe
+c:\users\amin hudda\documents\visual studio 2015\Projects\String Variables\String Variables\obj\Debug\String Variables.pdb

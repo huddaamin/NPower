@@ -1,0 +1,6 @@
+c:\users\amin hudda\documents\visual studio 2015\Projects\TheLoopyPlanetChallenge\TheLoopyPlanetChallenge\bin\Debug\TheLoopyPlanetChallenge.exe.config
+c:\users\amin hudda\documents\visual studio 2015\Projects\TheLoopyPlanetChallenge\TheLoopyPlanetChallenge\bin\Debug\TheLoopyPlanetChallenge.exe
+c:\users\amin hudda\documents\visual studio 2015\Projects\TheLoopyPlanetChallenge\TheLoopyPlanetChallenge\bin\Debug\TheLoopyPlanetChallenge.pdb
+c:\users\amin hudda\documents\visual studio 2015\Projects\TheLoopyPlanetChallenge\TheLoopyPlanetChallenge\obj\Debug\TheLoopyPlanetChallenge.csprojResolveAssemblyReference.cache
+c:\users\amin hudda\documents\visual studio 2015\Projects\TheLoopyPlanetChallenge\TheLoopyPlanetChallenge\obj\Debug\TheLoopyPlanetChallenge.exe
+c:\users\amin hudda\documents\visual studio 2015\Projects\TheLoopyPlanetChallenge\TheLoopyPlanetChallenge\obj\Debug\TheLoopyPlanetChallenge.pdb
